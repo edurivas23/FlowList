@@ -1,5 +1,5 @@
 import type { ReactNode } from "react";
-import { Counter } from "./counter";
+import { Counter } from "./Counter";
 
 
 
